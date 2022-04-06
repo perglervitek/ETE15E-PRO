@@ -1,0 +1,16 @@
+***********************************
+        Zemědělský obchodník
+ Zemědělská 27 110 00
+ IČO: 123456789   DIČ: CZ123456789
+         Číslo dokladu: 588
+***********************************
+Provozovna: 1          Pokladna: 15
+Datum: 06.04.2022
+Čas: 11:22:33
+Režim tržby:   Běžný
+FIK: ob2bo9ay8xfc
+BKP: q3pjkpohpbnh
+***********************************
+1  Mléko 1l 500g 11,50CZK 98x
+***********************************
+Celková cena: 1127,00 CZK

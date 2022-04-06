@@ -1,0 +1,15 @@
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\bin\Debug\net6.0\ETE15E_PRO_PERGLER.exe
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\bin\Debug\net6.0\ETE15E_PRO_PERGLER.deps.json
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\bin\Debug\net6.0\ETE15E_PRO_PERGLER.runtimeconfig.json
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\bin\Debug\net6.0\ETE15E_PRO_PERGLER.dll
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\bin\Debug\net6.0\ETE15E_PRO_PERGLER.pdb
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.csproj.AssemblyReference.cache
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.AssemblyInfoInputs.cache
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.AssemblyInfo.cs
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.csproj.CoreCompileInputs.cache
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.dll
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\refint\ETE15E_PRO_PERGLER.dll
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.pdb
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ETE15E_PRO_PERGLER.genruntimeconfig.cache
+C:\Users\vitek\Desktop\Vlastni\ETE15E-PRO\ETE15E_PRO_PERGLER\ETE15E_PRO_PERGLER\obj\Debug\net6.0\ref\ETE15E_PRO_PERGLER.dll
